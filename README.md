@@ -50,15 +50,3 @@ The long-term goal is to create a reproducible 3D cross-modal representation tha
 | 4 | Biopsy data integration and validation | January 2026 |
 | 5 | Cross-modal prediction and model training | Spring 2026 |
 
----
-
-## 7. Summary (One-sentence version)
-> I am developing a reproducible 3D cross-modal framework that aligns histopathology slides and MRI volumes of the prostate, enabling MRI to capture pathology-level semantics even under limited data conditions.
-
----
-
-**Notes for self-use / advisor updates**
-- Keep one folder for each pipeline stage (`2D_mapping`, `3D_reconstruction`, `registration`, `biopsy_integration`).  
-- Update this document weekly with progress and visual results.  
-- Add representative figures (2D overlay, 3D reconstruction snapshots) as you complete each stage.
-
